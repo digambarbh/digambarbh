@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=digambarbh&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## `> whoami`
 
-I'm a **Full-Stack Developer** focused on building complete web applications — from responsive interfaces and REST APIs to authentication, databases and deployment.
+I'm a **Full-Stack Developer** focused on building complete web applications — from responsive interfaces and REST APIs to authentication, databases and real-time features.
 
 I enjoy turning ideas into **clean, maintainable and production-oriented applications**.
 
@@ -36,7 +36,7 @@ I enjoy turning ideas into **clean, maintainable and production-oriented applica
 Frontend        → React · TypeScript · JavaScript · Tailwind CSS
 Backend         → Node.js · Express.js · REST APIs
 Databases       → PostgreSQL · MongoDB · SQL
-Architecture    → Authentication · RBAC · API Design · MVC
+Architecture    → Authentication · RBAC · API Design
 Real-time       → Socket.IO
 Tools           → Git · GitHub · Postman · VS Code
 ```
@@ -48,144 +48,116 @@ Tools           → Git · GitHub · Postman · VS Code
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite,html,css" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
 </p>
 
-### Tools & Workflow
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏢 Staff Desk
+## 🏢 Staff Desk
 
-> Employee Management System designed around real-world organizational workflows.
+**Employee Management System**
 
-**What I worked with**
+A full-stack employee management platform designed around real-world organizational workflows, role-based access and centralized employee operations.
+
+### Stack
 
 `React` `TypeScript` `Express.js` `PostgreSQL` `Drizzle ORM` `Better Auth` `Socket.IO`
 
-**Key areas**
+### Highlights
 
-- Role-based access control
-- Employee management
-- Department management
-- Attendance management
-- Admin announcements
-- Session-based authentication
-- PostgreSQL database design
-- REST API architecture
-- Real-time communication
+- 👥 Employee management
+- 🏢 Department management
+- 📊 Attendance management
+- 📢 Admin announcements
+- 🔐 Session-based authentication
+- 🛡️ Role-based access control
+- ⚡ Real-time communication
+- 🗄️ PostgreSQL database architecture
+- 🔌 REST API architecture
+- ✅ Request validation
+- 🧩 Modular frontend architecture
 
-[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/staff-desk)
-
----
-
-### 🏨 StayEase
-
-> Full-stack accommodation booking platform inspired by modern travel platforms.
-
-**Tech**
-
-`MongoDB` `Express.js` `Node.js` `EJS` `Passport.js` `Cloudinary` `Leaflet`
-
-**Features**
-
-- User authentication
-- Property listings
-- Image uploads
-- Location-based listings
-- Booking management
-- Reviews
-- Interactive maps
-- Database relationships
-- Server-side validation
-
-[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/stayease)
+<a href="https://github.com/digambarbh/staff-desk">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-### 🎬 Marquee
+## 🏨 StayEase
 
-> Movie ticket booking platform focused on a smooth browsing and booking experience.
+**Accommodation & Travel Booking Platform**
 
-**Tech**
+A full-stack booking platform inspired by modern travel applications, allowing users to discover stays, manage listings and handle bookings.
 
-`React` `Node.js` `Express.js` `MongoDB`
+### Stack
 
-**Features**
+`Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Passport.js` `Cloudinary` `Leaflet`
 
-- Movie discovery
-- Movie details
-- Seat selection
-- Booking workflow
-- REST APIs
-- Responsive UI
-- Database-driven application
+### Highlights
 
-[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/marquee)
+- 🏠 Property listings
+- 🔐 User authentication
+- 📅 Booking management
+- ⭐ Reviews & ratings
+- ☁️ Cloudinary image uploads
+- 🗺️ Interactive maps
+- 📍 Location-based listings
+- 🗄️ MongoDB data modeling
+- 🔒 Authentication & authorization
+- 🧩 Server-side architecture
 
----
-
-### 📋 Placement Tracker
-
-> Progressive Web App built to organize placement preparation and job applications.
-
-**Tech**
-
-`React` `Node.js` `Express.js` `MongoDB` `PWA`
-
-**Features**
-
-- Application tracking
-- Placement preparation
-- Company tracking
-- Status management
-- Responsive interface
-- Installable PWA experience
-
-[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/placement-tracker)
+<a href="https://github.com/digambarbh/stayease">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-# 🧩 What I Build
+# 🧠 Full-Stack Development
 
 ```text
-        ┌─────────────────────────────────────┐
-        │          FULL-STACK APPLICATION      │
-        └──────────────────┬──────────────────┘
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-        FRONTEND                      BACKEND
-             │                           │
-       React / TS                 Node / Express
-       Tailwind CSS               REST APIs
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                     DATA LAYER
-                           │
-                PostgreSQL / MongoDB
-                           │
-                     AUTH / SECURITY
-                           │
-                Sessions / RBAC / APIs
+                     ┌───────────────────┐
+                     │   WEB APPLICATION  │
+                     └─────────┬─────────┘
+                               │
+                ┌──────────────┴──────────────┐
+                │                             │
+          ┌─────▼─────┐                 ┌─────▼─────┐
+          │  FRONTEND │                 │  BACKEND  │
+          └─────┬─────┘                 └─────┬─────┘
+                │                             │
+          React / TS                    Node / Express
+          Tailwind CSS                 REST APIs
+                │                             │
+                └──────────────┬──────────────┘
+                               │
+                         ┌─────▼─────┐
+                         │ DATABASE  │
+                         └─────┬─────┘
+                               │
+                    PostgreSQL / MongoDB
+                               │
+                         ┌─────▼─────┐
+                         │   AUTH    │
+                         └───────────┘
 ```
 
 ---
 
-# 🛠️ Full-Stack Skills
+# 🛠️ What I Work With
 
 | Area | Technologies |
 |---|---|
@@ -193,33 +165,33 @@ Tools           → Git · GitHub · Postman · VS Code
 | **Backend** | Node.js, Express.js |
 | **Databases** | PostgreSQL, MongoDB, SQL |
 | **ORM / ODM** | Drizzle ORM, Mongoose |
-| **Authentication** | Session Authentication, Better Auth, Passport.js |
-| **API** | REST APIs, API Validation, Postman |
+| **Authentication** | Better Auth, Passport.js, Session Authentication |
+| **API Development** | REST APIs, Validation, Postman |
 | **Real-time** | Socket.IO |
-| **State / Data** | TanStack Query |
+| **Data Fetching** | TanStack Query |
 | **Build Tools** | Vite, npm |
 | **Version Control** | Git, GitHub |
 | **Development** | VS Code |
 
 ---
 
-# 🏗️ Engineering Practices
+# 🏗️ Engineering Focus
 
-I focus on more than just making an application work.
+I focus on building applications that are not only functional, but also structured for maintainability.
 
 ```text
 ✓ Component-based architecture
-✓ Reusable frontend components
+✓ Reusable UI components
 ✓ RESTful API design
-✓ Database normalization
+✓ Database design & relationships
 ✓ Authentication & authorization
 ✓ Role-based access control
 ✓ Input validation
 ✓ Error handling
 ✓ API testing
 ✓ Responsive UI
-✓ Clean Git workflow
-✓ Maintainable project structure
+✓ Clean project structure
+✓ Git-based development workflow
 ```
 
 ---
@@ -228,7 +200,7 @@ I focus on more than just making an application work.
 
 ### Frontend
 
-`Advanced React` · `TypeScript` · `TanStack Query` · `Frontend Architecture`
+`React` · `TypeScript` · `TanStack Query` · `Frontend Architecture`
 
 ### Backend
 
@@ -244,13 +216,13 @@ I focus on more than just making an application work.
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=digambarbh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digambarbh&layout=compact&hide_border=true&theme=transparent" />
 
 <br/><br/>
 
@@ -260,13 +232,13 @@ I focus on more than just making an application work.
 
 ---
 
-# 💻 Development Philosophy
+# 💻 How I Build
 
 <div align="center">
 
-### `Build → Break → Debug → Improve → Ship`
+### `Build → Debug → Refactor → Improve → Ship`
 
-I believe the best way to learn software development is to **build real applications, solve real problems, and understand what happens under the hood.**
+I believe the best way to become a better developer is to **build real applications, solve real problems, and understand the technology behind them.**
 
 </div>
 
@@ -276,23 +248,23 @@ I believe the best way to learn software development is to **build real applicat
 
 <div align="center">
 
+<a href="https://github.com/digambarbh">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 **Thanks for visiting my profile.**
 
