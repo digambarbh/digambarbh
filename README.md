@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/digambarbh">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
@@ -254,7 +254,7 @@ I focus on more than just making an application work.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=digambarbh&hide_border=true&theme=transparent" />
 
 </div>
 
