@@ -1,90 +1,301 @@
-<h1 align="center">Hi, I'm Digambar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-stack developer</b> building web apps and desktop tools<br/>
-  MERN • React • Python • Always learning by building
+# 👋 Hi, I'm Digambar
+
+### Full-Stack Developer
+
+**I build modern, scalable and user-focused web applications.**
+
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+
+</div>
+
+---
+
+## `> whoami`
+
+I'm a **Full-Stack Developer** focused on building complete web applications — from responsive interfaces and REST APIs to authentication, databases and deployment.
+
+I enjoy turning ideas into **clean, maintainable and production-oriented applications**.
+
+```text
+Frontend        → React · TypeScript · JavaScript · Tailwind CSS
+Backend         → Node.js · Express.js · REST APIs
+Databases       → PostgreSQL · MongoDB · SQL
+Architecture    → Authentication · RBAC · API Design · MVC
+Real-time       → Socket.IO
+Tools           → Git · GitHub · Postman · VS Code
+```
+
+---
+
+# ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&logo=github" alt="followers" />
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
 </p>
 
----
+### Tools & Workflow
 
-## 🧑‍💻 About Me
-
-- 🔭 Building full-stack web apps, PWAs, and desktop utilities
-- 🌱 Currently deepening my knowledge of **TypeScript, system design, and AI/ML (RAG, agentic AI)**
-- 🎯 Preparing for software developer roles
-- 💬 Ask me about **React, Express, MongoDB, Python**
-- ⚡ Fun fact: I built a J.A.R.V.I.S.-style voice assistant
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🎬 **Marquee** | Movie ticket booking platform with seat selection and bookings | MERN |
-| 🏨 **StayEase** | Travel & stays booking platform with listings across India | MERN |
-| 📋 **Placement Tracker** | PWA to organize job placement prep and applications | MERN, PWA |
-| 📓 **Student Diary Cloud** | Student diary and academic dashboard PWA | React, Vite, Tailwind |
-| 🤖 **J.A.R.V.I.S.** | Desktop voice assistant with an ML-based intent classifier | Python |
-
-> 🔗 Add repo links: replace each project name with `[Name](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+### 🏢 Staff Desk
 
-<p align="center"><i>⭐ If you like something here, drop a star on the repo!</i></p>
+> Employee Management System designed around real-world organizational workflows.
+
+**What I worked with**
+
+`React` `TypeScript` `Express.js` `PostgreSQL` `Drizzle ORM` `Better Auth` `Socket.IO`
+
+**Key areas**
+
+- Role-based access control
+- Employee management
+- Department management
+- Attendance management
+- Admin announcements
+- Session-based authentication
+- PostgreSQL database design
+- REST API architecture
+- Real-time communication
+
+[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/staff-desk)
+
+---
+
+### 🏨 StayEase
+
+> Full-stack accommodation booking platform inspired by modern travel platforms.
+
+**Tech**
+
+`MongoDB` `Express.js` `Node.js` `EJS` `Passport.js` `Cloudinary` `Leaflet`
+
+**Features**
+
+- User authentication
+- Property listings
+- Image uploads
+- Location-based listings
+- Booking management
+- Reviews
+- Interactive maps
+- Database relationships
+- Server-side validation
+
+[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/stayease)
+
+---
+
+### 🎬 Marquee
+
+> Movie ticket booking platform focused on a smooth browsing and booking experience.
+
+**Tech**
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+**Features**
+
+- Movie discovery
+- Movie details
+- Seat selection
+- Booking workflow
+- REST APIs
+- Responsive UI
+- Database-driven application
+
+[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/marquee)
+
+---
+
+### 📋 Placement Tracker
+
+> Progressive Web App built to organize placement preparation and job applications.
+
+**Tech**
+
+`React` `Node.js` `Express.js` `MongoDB` `PWA`
+
+**Features**
+
+- Application tracking
+- Placement preparation
+- Company tracking
+- Status management
+- Responsive interface
+- Installable PWA experience
+
+[**View Repository →**](https://github.com/YOUR_GITHUB_USERNAME/placement-tracker)
+
+---
+
+# 🧩 What I Build
+
+```text
+        ┌─────────────────────────────────────┐
+        │          FULL-STACK APPLICATION      │
+        └──────────────────┬──────────────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+        FRONTEND                      BACKEND
+             │                           │
+       React / TS                 Node / Express
+       Tailwind CSS               REST APIs
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                     DATA LAYER
+                           │
+                PostgreSQL / MongoDB
+                           │
+                     AUTH / SECURITY
+                           │
+                Sessions / RBAC / APIs
+```
+
+---
+
+# 🛠️ Full-Stack Skills
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
+| **Backend** | Node.js, Express.js |
+| **Databases** | PostgreSQL, MongoDB, SQL |
+| **ORM / ODM** | Drizzle ORM, Mongoose |
+| **Authentication** | Session Authentication, Better Auth, Passport.js |
+| **API** | REST APIs, API Validation, Postman |
+| **Real-time** | Socket.IO |
+| **State / Data** | TanStack Query |
+| **Build Tools** | Vite, npm |
+| **Version Control** | Git, GitHub |
+| **Development** | VS Code |
+
+---
+
+# 🏗️ Engineering Practices
+
+I focus on more than just making an application work.
+
+```text
+✓ Component-based architecture
+✓ Reusable frontend components
+✓ RESTful API design
+✓ Database normalization
+✓ Authentication & authorization
+✓ Role-based access control
+✓ Input validation
+✓ Error handling
+✓ API testing
+✓ Responsive UI
+✓ Clean Git workflow
+✓ Maintainable project structure
+```
+
+---
+
+# 📚 Currently Improving
+
+### Frontend
+
+`Advanced React` · `TypeScript` · `TanStack Query` · `Frontend Architecture`
+
+### Backend
+
+`Node.js` · `Express.js` · `REST API Design` · `Authentication`
+
+### Database
+
+`PostgreSQL` · `SQL` · `Database Design` · `Query Optimization`
+
+### Engineering
+
+`System Design` · `Scalable Architecture` · `Clean Code`
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 💻 Development Philosophy
+
+<div align="center">
+
+### `Build → Break → Debug → Improve → Ship`
+
+I believe the best way to learn software development is to **build real applications, solve real problems, and understand what happens under the hood.**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
